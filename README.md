@@ -1,2 +1,2 @@
-# c43_proj_clock
-use of arc, map
+# p5.play-boilerplate
+Boiler plate for p5.play
